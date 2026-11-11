@@ -11,8 +11,54 @@ Welcome to my repository for **Database Management Systems (DBMS)**! This reposi
 ## 📂 Repository Structure
 
 ```text
-├── ASSIGNMENT 1 DBMS.pdf    # Solutions and outputs for Assignment 1
-├── ASSIGNMENT 2 DBMS.pdf    # Solutions and outputs for Assignment 2
-├── ASSIGNMENT 3 DBMS.pdf    # Solutions and outputs for Assignment 3
-├── ASSIGNMENT 4 DBMS.pdf    # Solutions and outputs for Assignment 4
-└── README.md                # Repository documentation
+IC-2K25-65-DBMS-NITMAY-JAIN/
+│
+├── ASSIGNMENT-01 DBMS/       # DBMS Assignment 01
+│
+├── ASSIGNMENT-02 DBMS/       # DBMS Assignment 02
+│
+├── ASSIGNMENT-03 DBMS/       # DBMS Assignment 03
+│
+├── ASSIGNMENT-04 DBMS/       # DBMS Assignment 04
+│
+└── README.md                 # Repository documentation
+```
+
+---
+
+## 📚 Topics Covered
+
+- Database Management System Fundamentals
+- Database Creation and Management
+- SQL Commands (DDL, DML, DQL, DCL and TCL)
+- CREATE, INSERT, UPDATE and DELETE Operations
+- SELECT Queries and Filtering
+- Aggregate Functions
+- GROUP BY and ORDER BY
+- Joins and Subqueries
+- Constraints and Keys
+- Database Relationships
+
+---
+
+## 🛠️ Technologies Used
+
+- **Database Language:** SQL
+- **Database Management System:** MySQL
+- **IDE / Tool:** MySQL Workbench
+- **Version Control:** Git & GitHub
+
+---
+
+## 🎯 Learning Objectives
+
+- Understand fundamental database concepts.
+- Learn to create and manage relational databases.
+- Practice SQL queries and database operations.
+- Understand relationships between database tables.
+- Work with joins, constraints and aggregate functions.
+- Develop practical database management skills.
+
+---
+
+
